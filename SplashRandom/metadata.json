@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "no name no number"
+            }
+        ],
+        "Category": "",
+        "Description": "Splash Screen with Random Pictures and Words",
+        "Id": "SplashRandom",
+        "License": "GPLv3",
+        "Name": "SplashRandom",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
